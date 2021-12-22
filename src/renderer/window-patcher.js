@@ -33,6 +33,7 @@ const WindowPatcher = () => {
       <button id="btnClose" />
       <button id="btnStart" />
       <button id="btnStartDisabled" />
+      <h1>TTTTTTTTTTTTTTTTTTTTTTTTT</h1>
       <span id="txtFile" className="text">
         Arquivo
       </span>

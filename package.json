@@ -2,7 +2,7 @@
   "name": "electron-game-updater",
   "productName": "Sea Tyrants",
   "author": "Corentin",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "description": "Electron Game Updater",
   "fileAssociations": {
     "description": "Electron Game Updater"
