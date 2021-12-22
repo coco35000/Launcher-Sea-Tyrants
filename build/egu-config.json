@@ -1,0 +1,7 @@
+{
+  "clientDir": "Sea Tyrants",
+  "updateList": "https://seatyrants.com/jeu/eguh-update-list.json",
+  "installZeroTier": false,
+  "startCmd": "start monjeu.exe",
+  "isDev": false
+}
